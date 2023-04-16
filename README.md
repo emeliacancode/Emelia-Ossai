@@ -1,1 +1,96 @@
-# Emelia-Ossai
+
+  </head>
+  <body>
+    <img src="./profile pic-modified.png" height="200" alt="Emelia's profile Pic">
+    <h1>Emelia Ossai</h1>
+    <p><strong>Certified Scrum Coach</strong> with a track record of implementing Agile methodologies and Scrum
+      ceremonies to facilitate on-time product delivery. History of success driving key initiatives from planning
+      through implementation while achieving positive and measurable organizational impact. Combines analytical
+      knowledge, leadership abilities, and relationship-building skills to engage stakeholders at all levels and enable
+      data-driven decision-making. Excels at identifying areas of improvement, ensuring the highest efficiency and
+      excellence level.</p>
+    <hr size="3" noshade>
+    <p><strong>Education</strong></p>
+    <p>Bachelor of Science, Managerial Sciences <em> <a href="https://www.gsu.edu/">Georgia State Univeristy</a>-
+        Atlanta , GA</em></p>
+    <p><strong>Certifications</strong></p>
+    <li>Certified Professional Scrum Master (PSM 1), <em> <a
+          href="https://www.credly.com/badges/ece18587-8e68-4e09-849c-65f469969e22">Scrum.org</a></em></li>
+    <li>Licensed Life, Accident, and Health Insurance Agent, <em>Multiple States</em></li>
+    <li>HDI Certified Support Center Analyst, <em>Present</em></li>
+    <li>Licensed State of Florida Cosmetologist, <em> Present</em></li>
+    </ul>
+    </h5>
+    <hr size="3" noshade>
+    <p><strong>Work History</strong></p>
+    <table border="1">
+      <tr>
+        <td>SAP Procurement Analyst</td>
+        <td><a href="https://www.bms.com/">Bristol Myers Sqibb (Contract via DYSIS)</a> </td>
+        <td>Tampa, Florida</td>
+        <td>April 2023 - Present</td>
+      </tr>
+      <tr>
+        <td>Project Manager</td>
+        <td><a href="https://www.h2obeautyworld.com/">H2O Beauty World LLC.</a> </td>
+        <td>Valrico, Florida</td>
+        <td>March 2021- April 2023</td>
+      </tr>
+      <tr>
+        <td>Sourcing Associate</td>
+        <td><a href="https://www.bms.com/">Bristol Myers Sqibb (Contract via SpectraForce Technologies)</a> </td>
+        <td>Tampa, Florida</td>
+        <td>April 2020 - February 2021</td>
+      </tr>
+      <tr>
+        <td>Souring and Operations Manager</td>
+        <td><a href="https://www.lbeinsurance.com/">LBE Insurance Agency</a> </td>
+        <td>Riverview, Florida</td>
+        <td>January 2019-April 2020</td>
+      </tr>
+      <tr>
+        <td>Transportation Planning Analyst</td>
+        <td><a href="https://www.cocacolaflorida.com/">Coca-Cola Beverages Florida (CCBF)</a> </td>
+        <td>Tampa, Florida</td>
+        <td>September 2017 - December 2018</td>
+      </tr>
+      <tr>
+        <td>Supply Chain Manager</td>
+        <td><a href="https://www.homedepot.com/">The Home Depot SSC</a> </td>
+        <td>Atlanta, Georgia</td>
+        <td>January 2015 - September 2017</td>
+      </tr>
+    </table>
+    <hr size="3" noshade>
+    <h4><strong>Skills</strong></h3>
+      <table cellspacing="20">
+        <table>
+          <tr>
+            <td>
+            <td>Project Management Skills, Tools, & Methodologies</td>
+            <td>🟣🟣🟣🟣🟣🟣</td>
+            </td>
+            <td>
+            <td>SAP Migration and Integration (Data Mapping)</td>
+            <td>🟣🟣🟣🟣🟣🟣🟣🟣</td>
+            </td>
+          </tr>
+          <tr>
+            <td>
+            <td>Workflow Process Improvement</td>
+            <td>🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣</td>
+            </td>
+            <td>
+            <td>ServiceNow</td>
+            <td>🟣🟣🟣🟣🟣🟣🟣</td>
+            </td>
+          </tr>
+        </table>
+        <hr size="3" noshade>
+        <a href="share.html">Share your comments</a></em></p>
+        <a href="contact.html">Contact Me!</a></em></p>
+
+  </body>
+
+  </html>
+    
